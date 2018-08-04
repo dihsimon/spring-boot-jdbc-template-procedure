@@ -1,0 +1,6 @@
+com\example\demo\controller\BeneficiarioController.class
+com\example\demo\entity\Beneficiario.class
+com\example\demo\dao\BeneficiarioDAO.class
+com\example\demo\service\BenefeciarioService.class
+com\example\demo\repository\BeneficiarioRepository.class
+com\example\demo\SpringBootJdbcTemplateProcedureApplication.class
